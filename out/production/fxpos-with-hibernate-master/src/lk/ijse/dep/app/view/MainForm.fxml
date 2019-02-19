@@ -19,7 +19,7 @@
             <Image url="@../asset/ijse-logo.gif" />
          </image>
       </ImageView>
-      <Label layoutX="105.0" layoutY="76.0" text="FX Point of Sale System with Application Architecture">
+      <Label layoutX="105.0" layoutY="76.0" text="FX POS System with Application Architecture and Hibernate">
          <font>
             <Font name="System Bold" size="16.0" />
          </font>

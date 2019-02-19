@@ -6,3 +6,11 @@ error.log.lck
 test
 Application Architecture + Native Hibernate.iml
 error.log**
+
+*.log
+*.iml
+*.xml
+.idea/**
+*.class
+*.jar
+node_modules/**
